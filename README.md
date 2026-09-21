@@ -30,7 +30,7 @@ Each skill is self-contained. Install one, install all three, or lift the parts 
 
 ## Why we publish these
 
-Ghost Brief is an independent product studio. We build products and systems for operators, and we document the work as we go. This repo is part of that. The skills here are the ones we run daily, and when the real workflow changes, these files change with it.
+Ghost Brief is an independent product studio. We build products and systems for operators, and we document the work as we go. This repo is part of that. The skills here are the ones we run daily, and when the real workflow changes, these files change too.
 
 The working notes behind them run in The Brief, our newsletter on what we're building and what we're learning.
 
