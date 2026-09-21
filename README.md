@@ -42,4 +42,4 @@ Use these freely in your own work and in client work. Attribution is appreciated
 
 ---
 
-<sub>[ghostbrief.co](https://ghostbrief.co) | [@ghostbrief_](https://x.com/ghostbrief_)</sub>
+<sub>[ghostbrief.co](https://ghostbrief.co) | @ghostbrief_
