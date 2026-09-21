@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Ghost Brief · Skills for Marketing Operators" width="100%" />
+  <img src="assets/banner.png" alt="Ghost Brief · Skills for Operators" width="100%" />
 </p>
 
-# Skills for Marketing Operators
+# Skills for Operators
 
-The agent skills we use to run Ghost Brief's own marketing work, published straight from the studio.
+The agent skills we use to run Ghost Brief, published straight from the studio.
 
 A skill is a small instruction file that teaches an AI assistant a repeatable discipline. Most AI marketing output comes out generic because the model is writing from a blank prompt, with none of the context that makes work specific. These files encode that context. Each one holds a method we actually use, written so an agent can run it the same way every time.
 
@@ -30,7 +30,7 @@ Each skill is self-contained. Install one, install all three, or lift the parts 
 
 ## Why we publish these
 
-Ghost Brief is an independent product studio. We build products and systems for marketing operators, and we document the work as we go. This repo is part of that. The skills here are the ones we run daily, and when the real workflow changes, these files change with it.
+Ghost Brief is an independent product studio. We build products and systems for operators, and we document the work as we go. This repo is part of that. The skills here are the ones we run daily, and when the real workflow changes, these files change with it.
 
 The working notes behind them run in The Brief, our newsletter on what we're building and what we're learning.
 
